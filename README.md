@@ -18,7 +18,7 @@ Backend developer with a background in Functional Analysis, focused on building 
 
 <p align="left">
   <img src="assets/icons/mysql.svg" width="42" alt="MySQL" />
-  <img src="assets/icons/sqlite.svg" width="42" alt="SQLite" />
+  <img src="assets/icons/sqlitesvg.svg" width="42" alt="SQLite" />
 </p>
 
 ---
@@ -29,8 +29,6 @@ Backend developer with a background in Functional Analysis, focused on building 
   <img src="assets/icons/git.svg" width="42" alt="Git" />
   <img src="assets/icons/github.svg" width="42" alt="GitHub" />
   <img src="assets/icons/vscode.svg" width="42" alt="Visual Studio Code" />
-  <img src="assets/icons/chatgpt.svg" width="42" alt="ChatGPT" />
-  <img src="assets/icons/claude.svg" width="42" alt="Claude" />
   <img src="assets/icons/notion.svg" width="42" alt="Notion" />
 </p>
 
