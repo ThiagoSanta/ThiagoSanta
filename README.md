@@ -1,36 +1,27 @@
-# Hi, I'm Thiago Santamaria 
+# Hi, I'm Thiago Santamaria 👋
 
 Backend developer with a background in Functional Analysis, focused on building practical applications, database-driven systems, workflow automation and AI-assisted development.
 
 ---
 
-## Languages
+## Tech Stack
 
-<p align="left">
-  <img src="assets/icons/php.svg" width="42" alt="PHP" />
-  <img src="assets/icons/python.svg" width="42" alt="Python" />
-  <img src="assets/icons/javascript.svg" width="42" alt="JavaScript" />
-</p>
-
----
-
-## Databases
-
-<p align="left">
-  <img src="assets/icons/mysql.svg" width="42" alt="MySQL" />
-  <img src="assets/icons/sqlitesvg.svg" width="42" alt="SQLite" />
-</p>
+| Backend | Frontend | Databases |
+|----------|----------|-----------|
+| PHP | HTML | MySQL |
+| Python | CSS | SQLite |
+| JavaScript | | |
 
 ---
 
 ## Development Tools
 
-<p align="left">
-  <img src="assets/icons/git.svg" width="42" alt="Git" />
-  <img src="assets/icons/github.svg" width="42" alt="GitHub" />
-  <img src="assets/icons/vscode.svg" width="42" alt="Visual Studio Code" />
-  <img src="assets/icons/notion.svg" width="42" alt="Notion" />
-</p>
+| Category | Tools |
+|----------|-------|
+| Version Control | Git · GitHub |
+| Editors | Visual Studio Code · Antigravity |
+| AI | ChatGPT · Claude |
+| Productivity | Notion |
 
 ---
 
@@ -38,8 +29,8 @@ Backend developer with a background in Functional Analysis, focused on building 
 
 - Completing my Higher Technical Degree in Functional Analysis.
 - Building backend applications through personal projects.
-- Studying software architecture and software design.
-- Exploring AI-assisted development to improve productivity while strengthening core programming skills.
+- Studying software architecture, clean code and software design.
+- Using AI to improve productivity while strengthening core programming skills.
 
 ---
 
